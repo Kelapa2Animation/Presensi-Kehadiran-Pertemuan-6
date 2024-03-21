@@ -1,0 +1,15 @@
+/* CSS file for styling the p5.js project */
+
+body {
+  margin: 0;
+  padding: 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  background-color: #f0f0f0;
+}
+
+canvas {
+  border: 1px solid #000;
+}
